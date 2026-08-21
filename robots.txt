@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://janwimittal4-eng.github.io/nailrefresh/sitemap.xml
+Sitemap: https://nail-refresh.vercel.app/sitemap.xml
